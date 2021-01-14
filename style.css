@@ -72,12 +72,6 @@ body {
     border-radius: 8px 8px 0 0;
 }
 
-footer p {
-    margin-top: 40px;
-    margin-bottom: 15px;
-    text-align: center;
-}
-
 button {
     cursor: pointer;
 }
